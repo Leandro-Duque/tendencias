@@ -2,7 +2,7 @@
 
 ## Identificação
 
-- **Nome:** Leandro Alcântara Morais 
+- **Nome:** Leandro Santos Duque da Silva 
 - **Data:** 17/09/2026
 - **Disciplina:** Tendências em Ciência da Computação
 - **Unidade:** II — Programação Assistida
